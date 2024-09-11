@@ -1,0 +1,16 @@
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.exe
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.deps.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.runtimeconfig.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.runtimeconfig.dev.json
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\ref\Detect Type.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\bin\Debug\net5.0\Detect Type.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.csproj.AssemblyReference.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.AssemblyInfoInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.AssemblyInfo.cs
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.csproj.CoreCompileInputs.cache
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\ref\Detect Type.dll
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.pdb
+C:\Users\187771\OneDrive - Boston College\Computing – Year 2\Software Design & Development Project\C# Tasks\Detect Type\obj\Debug\net5.0\Detect Type.genruntimeconfig.cache
